@@ -1,0 +1,9 @@
+Walk the dog, Med
+Shower, Low
+Call cable company, Low
+Order monitor, Med
+Clean the house, Low
+Read Chapter 6, Med
+Feed Baby, High
+Change Baby, High
+Text Mom for Mother's Day, High
